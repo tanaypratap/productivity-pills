@@ -61,7 +61,7 @@ As we talked in previous section, a major reason why we procrastinate is that th
 
 **having a reward** While I say that good work is its own reward. I see that many folks recommend having a reward system for completing every task. This is something I don't do, never tried. However, this might work for you. If you like to eat something, watch a TV series, read that favorite novel. You can delay your gratification and make it a reward to complete the task.
 
-## solve the energy problem
+## solving the energy problem
 
 Sometimes the problem is far from the lizard brain. There are times when you're actually tired and you can't make your body move to do anymore thing. There are tiring days in office, there are just bad days in life too. And that's okay. As long as you're _mindful_ about your energy state, I feel it's okay to say, "hey! I did enough today, let me have a break".
 
