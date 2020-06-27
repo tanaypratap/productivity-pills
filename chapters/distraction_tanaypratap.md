@@ -1,4 +1,4 @@
-# for God's sake! put down your phone..
+# for God's sake! Put down your phone..
 
 We all know that phone eats our time like nothing else in this world even then we keep using it. Why? Answer is because we have got addicted to it.
 Our brain’s internal wirings have changed which craves for something novel every five minutes. This has affected our ability to concentrate, learn something effectively or do meaningful work.
