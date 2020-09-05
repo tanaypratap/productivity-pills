@@ -28,7 +28,7 @@
   visibility: hidden;
 }
 
-p {
+.markdown p {
   text-align: justify;
 }
 
