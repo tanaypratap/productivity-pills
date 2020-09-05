@@ -11,8 +11,7 @@
   position: relative;
   overflow: hidden;
   color: white;
-  background-color: #4f49c1;
-  /* cornflowerblue; */
+  background-color: var(--ifm-color-primary-light);
 }
 
 @media screen and (max-width: 966px) {

@@ -10,13 +10,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary: #6b63ff;
+  --ifm-color-primary-dark: #4940ff;
+  --ifm-color-primary-darker: #392eff;
+  --ifm-color-primary-darkest: #0d00f8;
+  --ifm-color-primary-light: #8d86ff;
+  --ifm-color-primary-lighter: #9d98ff;
+  --ifm-color-primary-lightest: #d0cdff;
   --ifm-code-font-size: 95%;
 
   /** Added by Tanay **/
@@ -30,6 +30,10 @@
 
 .markdown p {
   text-align: justify;
+}
+
+.main-wrapper hr {
+  border-color: var(--ifm-color-primary-lighter);
 }
 
 .docusaurus-highlight-code-line {

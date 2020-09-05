@@ -21,13 +21,14 @@ module.exports = {
       items: [{
         to: 'book/',
         activeBasePath: 'book',
-        label: 'Read',
+        label: 'Book',
         position: 'left',
       }, ],
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} The Productivity Book, Built by Tanay Pratap`,
+      copyright: `Copyright © ${new Date().getFullYear()} The Productivity Book, </br>
+      site built by Tanay Pratap with <a href="https://docusaurus.io/"> docusaurus </a>`,
     },
   },
   presets: [
