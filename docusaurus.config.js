@@ -12,6 +12,10 @@ module.exports = {
       trackingID: 'UA-49394184-6',
       anonymizeIP: true,
     },
+    algolia: {
+      apiKey: 'c6d3d7e6bbc3e6154846760cf6f36228',
+      indexName: 'theproductivitybook',
+    },
     navbar: {
       title: 'theproductivitybook',
       logo: {
