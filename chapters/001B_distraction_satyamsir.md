@@ -4,46 +4,115 @@ title: "put down your phone"
 sidebar_label: "distraction (satyam)"
 ---
 
-## story time
 
-Once, one of the courtiers of a famous king asked a question, "Maharaj, how do you maintain such a good harmony in personal, family and social life? Why you don't get distracted from other things when you do one thing?"
+---
 
-Maharaj said, "I will answer this question later. First you will have to give a test. The king ordered a bowl full of oil and said, "Within half an hour you have to take a round of the entire garden of the palace. On the way, you are completely free to see the beautiful flowers of the garden and feel its aroma. Just remember, my two soldiers will follow you all the way along with their sword and if one drop of oil falls from your bowl, they will separate your head from the torso."
+id: 001B
 
-As per the orders of the Maharaja, the courtier departed from there with his oil-filled bowl and he returned efficiently just before half an hour. He was very happy because not a single drop of oil had spilled. The Maharaja asked him "Let's now tell how the new flowers planted in the palace garden. Tell the people in this court about their fragrance." Hearing this question, the courtier said, "Maharaj, my 100% focus was on the oil of bawl so I could neither see the flowers nor feel the fragrance of them. I could not even wait to see anything, because I had to come back in time. So pardon me. "
+title: "put down your phone"
 
-Maharaj smiled and said, "I did not send any soldiers after you. I wanted to tell you that when you were completely focused on the oil bowl bounded with time, you could see nothing but that." That time no other things has distracted you. Similarly, I have practiced that when I work on one aspect of my life, then I keep my entire focus on that task at that time. For me at that time very that time is the most important time of my life. And that work is the most important work. I practice to live life in the very present. It is the main secret of my health and happiness.
+sidebar_label: "distraction (satyam)"
 
-I don't know about the authenticity of this story but I totally agree with the lesson which has given through the story. So, if we really want to live a healthy, happy and successful life we should practice not to get distracted from our important work. I have explained about it also in the other chapter of this book named 'Attention Management'. In this chapter I am going to discuss about the major source of distraction of our today's life - 'The smart phones'
+---
 
-## understanding the why
+  
 
-It goes without saying that smartphones are the killer of our productivity. They may cause headaches, decreased attention, shortness of temper, sleep disorders and depression. The new researches on this field revealed that when we observe we are being noticed and appreciated by others the specific part of our brain called nucleus accumbens is activated which gives us the sense of satisfaction and pleasure just like eating delicious food, making love and earning money. When we feel this happiness, a time comes when our brain demands it over and over. That's why we are always so curious to go through our social media notification and it's become difficult to keep ourselves away from our smartphones.
+## Story time
 
-## the addiction
+  
 
-It has been found out that basic process of quitting the habit of using smartphones more than our real necessity is similar of quitting other addiction like habit of smoking and alcohol consumption.Thus, we can say that it is the main obstacle of leading a fruitful and productive life. So far my opinion is concerned every difficult and dreadful problem has a simple and useful solution and we are here to focus mainly on solution. If one want a detailed and deep knowledge about all the aspects of forming and quitting habits he/she should read the bestseller book- 'The Power Of Habit' written by Charles Duhigg. Through his research he elaborated that any habit forms through three things (1). Cue or trigger (2). Work/activity and (3) Reward .
+Once, a courtier asked his king, "Maharaja, how do you maintain such a great balance between personal and social life?; How do you manage to focus on a particular task when you have so much on your plate?"
 
-## let's break it down
+  
 
-- Activity (You checked your notification)🔛
-- Cue/Trigger(You listen the notifications signal/you put your phone on your hands.)
-- 🔛Reward(You watched/read something pleasing to you.)
+Maharaja replied, "I will definitely answer this question. But, first you must take a test.” The king asked for a bowl full of oil and told him, "You have to take a round of the entire garden of this palace within half an hour. While taking the round, you are completely free to enjoy the sight and aroma of the beautiful flowers in the garden. Just remember, my two soldiers will be following you with their sword and the moment a single drop of oil spills from your bowl, they will separate your head from the torso."
 
-## the replacement protocol
+  
 
-Now, we should know that we can't diminish any habit, but we can replace it by other or can form a new habit.
+As directed, the courtier took a round of the garden with the oil-filled bowl ensuring not to spill a single drop of oil and returned within stipulated time. He was brimming with happiness on successfully completing the task. But to his surprise, the Maharaja commanded, "Please enlighten all the people in this court about the flowers and their fragrance". Hearing this question, the courtier took a pause and answered with a heavy heart, "Maharaja, my entire focus was on the bowl and returning in time, so I could neither see the flowers nor smell them. So please, pardon me. "
 
-So, if we could change the cue/trigger then we can easily change the Habit but still our brain will demand the same reward. So, we should take care of similar reward too. Now, I am giving some practical examples to change bad habits related to your smartphone :-
+  
 
-## Turn off notifications
+Maharaja smiled and said, “I did not send any soldiers after you. I wanted you to realise that you were completely focused on the oil bowl and to return in the limited time, nothing could distract you neither the absence of soldiers nor the heavenly fragrance of the flowers. Similarly, whenever I work on one aspect of my life, then I keep my entire focus on that task at that particular moment. I always try my best to live life in the present. This has also helped me to maintain balance in my social and personal life and is the main secret of my health and happiness."
 
-- Remove distraction based apps from home screen.
+  
+
+This story highlights the importance of attention and focus in our lives. If we really want to live a healthy, happy and successful life we should always practice not to get distracted while doing any task. We have discussed attention in our 'Attention Management' chapter. Whereas, this chapter is solely dedicated to one of the major sources of distraction in today's life - 'The Smart Phones'.
+
+  
+  
+
+## Your brain is tricking you
+
+  
+
+The smartphone revolution is one of the most important events in the technological space since the beginning of this century. On one hand they have made our lives so much easier, but on the other they are the killers of our productivity. They can even increase inattention, cause headaches, lead to shortness of temper, cause sleep disorders and depression. Researches suggest that when we are being noticed and appreciated by others, the nucleus accumbens in our brain activates, providing us a sense of satisfaction and pleasure. It is the same when we eat delicious food, make love or feel successful in life. Our brains become habituated to such happiness and demands for it repeatedly. That's why we are always tempted to go through our social media notifications to seek validations for our activities and therefore, it becomes difficult to keep ourselves away from smartphones.
+
+  
+
+>### *PRO*- Start
+
+> Check the time right now and make sure that you don’t check any of your social media pages/accounts for the next 25 minutes. Take this challenge.
+
+>
+
+  
+  
+
+## The replacement protocol
+
+  
+
+Studies show that quitting the habit of using smartphones, excessively, is similar to quitting other addictions like smoking, alcohol consumption or gambling. When we become obsessed with something, it acts as an obstacle to lead a fruitful and productive life. If you want more knowledge on forming and quitting habits, read the bestseller book- 'The Power Of Habit' written by Charles Duhigg. In short, every habit formation is based on this cycle of actions:
+
+  
+
+1. _Cue or trigger:_ You get a notification and automatically your hand reaches your phone.
+
+2. _Work/activity:_ You check your notification
+
+3. _Reward:_: You get momentary gratification for checking that notification.
+
+  
+
+Once, we understand the actions that lead to the formation of our habits and subsequently an addiction, we can try to stop it at the start by being conscious of the cues or triggers.
+
+  
+
+Let’s focus on the simple solution to this dreadful problem of smartphone addiction. The best way to change any unwanted habit is to replace it with the new ones.
+
+  
+
+If we could control the cue or trigger, then we won’t be performing the activity our habit warrants. But still, our brain has been trained to expect rewards and therefore, we should have alternative activity-reward mechanisms in place.
+
+  
+  
+  
+
+## Few tricks to control your triggers
+
+  
+
+- Turn off the notifications in your phone settings
+
+- Remove distracting/useless apps from your home screen.
+
 - Use flight mode while doing important work.
-- Change your phone settings.
+
 - Put your phone away while taking rest.
-- First try to keep yourself away from your smartphone consciously for predetermined few hours, then it should be gradually increased to some days or weeks according to needs. Now, I am giving some practical examples to change habits.
 
-The above mentioned activities will only work on trigger like notification, now do something fruitful and interesting like form the shabbir of playing and doing exercise or learning new skills related to your field when you are away from your smartphone. So the new habit could form.
+- First try to keep your smartphone away consciously for a few hours, increase those hours gradually into days or weeks accordingly.
 
-At last give your mind the similar reward, share your achievement again in social media which you achieved by becoming more productive. So that, your mind will feel better and rewarded and it will easily stick to the new habit .
+  
+
+The above mentioned activities will only work on controlling the triggers like notifications. Make sure you need to fill that time with some interesting activities like playing musical instruments, doing exercise, painting or anything that will help in replacing the gratification or pleasure you attain from using smartphones.
+
+  
+
+>### *PRO*- Start
+> Go to your mobile settings and turn off notifications for all your social media applications. Do this now.
+
+>
+
+
+At last give your mind the similar rewards, share your achievements on social media so that your mind feels better and rewarded and has the incentive to perform this newer and more productive habit.
