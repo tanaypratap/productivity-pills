@@ -20,7 +20,7 @@ Now, I think there is no need to say about the importance of constant learning. 
 
 ## meaning of learning
 
-Before getting the idea of lLaws of learning, Types of learning, Plateau and practical tips of fast learning in this chapter you should know about the meaning of learning, which I think could be better understood by the following three definitions:
+Before getting the idea of Laws of learning, Types of learning, Plateau and practical tips of fast learning in this chapter you should know about the meaning of learning, which I think could be better understood by the following three definitions:
 
 1.  "Learning consists in doing something new, provided this something new is retained by the individual and reappears in his later activities." _By the studies of Woodworth and Marquis._
 
